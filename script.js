@@ -1,5 +1,5 @@
- const cohereAPI = "LVS2pCt7IkKQhbPpnwYa14aODimwYV812Zrgyejf";
-    const youtubeAPI = "AIzaSyCcbOElbRtIyLakUcCd9TU-aKE0AHHGtoc";
+ const cohereAPI = "YOUR_API_KEY";
+    const youtubeAPI = "YOUR_API_KEY";
     
     let currentMindmapData = null;
     let videosVisible = false;
